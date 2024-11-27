@@ -19,4 +19,4 @@ O diagrama ER descreve as entidades e relacionamentos de um sistema de matrícul
 
 ## Diagrama ER
 
-[Diagrama ER](..\diagrama\diagramaMatricula.png)
+[Diagrama ER](/Modelo%20conceitual/diagrama/diagramaMatricula.pdf)
